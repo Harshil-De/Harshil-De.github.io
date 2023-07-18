@@ -7,4 +7,4 @@
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
-[Harshil_Desai](www.linkedin.com/in/harshil-desai-bb616523)
+[Harshil_Desai](https://www.linkedin.com/in/harshil-desai-bb616523)
